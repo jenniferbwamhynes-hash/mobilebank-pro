@@ -1,6 +1,12 @@
 # MobileBank Pro
 
+[![CI Pipeline](https://github.com/jenniferbwamhynes-hash/mobilebank-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/jenniferbwamhynes-hash/mobilebank-pro/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/jenniferbwamhynes-hash/mobilebank-pro?include_prereleases)](https://github.com/jenniferbwamhynes-hash/mobilebank-pro/releases)
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+
 A modern mobile banking application built with React Native for iOS and Android.
+
+**Status:** 🚧 In Development - v1.0.0-beta released for internal testing
 
 ## Features
 
